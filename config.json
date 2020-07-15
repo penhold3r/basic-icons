@@ -32,7 +32,7 @@
     },
     {
       "uid": "47a1f80457068fbeab69fdb83d7d0817",
-      "css": "youtube-play",
+      "css": "youtube",
       "code": 61802,
       "src": "fontawesome"
     },
@@ -44,13 +44,13 @@
     },
     {
       "uid": "bf882b30900da12fca090d9796bc3030",
-      "css": "mail",
+      "css": "mail-line",
       "code": 59392,
       "src": "fontawesome"
     },
     {
       "uid": "ccc2329632396dc096bb638d4b46fb98",
-      "css": "mail-alt",
+      "css": "mail",
       "code": 61664,
       "src": "fontawesome"
     },
@@ -86,37 +86,37 @@
     },
     {
       "uid": "9c1376672bb4f1ed616fdd78a23667e9",
-      "css": "comment-empty",
+      "css": "comment-line",
       "code": 61669,
       "src": "fontawesome"
     },
     {
       "uid": "23710230c21b4af140947e3604cc67a5",
-      "css": "comment-1",
+      "css": "comment-square",
       "code": 59397,
       "src": "elusive"
     },
     {
       "uid": "1d35198f5190ec004dd4ec742fbe19ca",
-      "css": "right",
+      "css": "arrow-right",
       "code": 59398,
       "src": "mfglabs"
     },
     {
       "uid": "c21d309f797d3644dc8d28c4617738ce",
-      "css": "left",
+      "css": "arrow-left",
       "code": 59399,
       "src": "mfglabs"
     },
     {
       "uid": "37910a1398001a5ccb541cb2a253a2c7",
-      "css": "right-open",
+      "css": "chev-right",
       "code": 61446,
       "src": "mfglabs"
     },
     {
       "uid": "b714be5a812a474811604f700dfc87ce",
-      "css": "left-open",
+      "css": "chev-left",
       "code": 61447,
       "src": "mfglabs"
     },
@@ -128,19 +128,19 @@
     },
     {
       "uid": "05a2f4c4839012434774cc1ceb4c0f9b",
-      "css": "download-alt",
+      "css": "download",
       "code": 59401,
       "src": "elusive"
     },
     {
       "uid": "1b5a5d7b7e3c71437f5a26befdd045ed",
-      "css": "doc",
+      "css": "file-line",
       "code": 59402,
       "src": "fontawesome"
     },
     {
       "uid": "178053298e3e5b03551d754d4b9acd8b",
-      "css": "doc-inv",
+      "css": "file",
       "code": 61787,
       "src": "fontawesome"
     },
@@ -155,6 +155,18 @@
       "css": "picture",
       "code": 59403,
       "src": "fontawesome"
+    },
+    {
+      "uid": "8ed4884bf9b840729eef8f0bbd2b1dbb",
+      "css": "user-line",
+      "code": 59404,
+      "src": "typicons"
+    },
+    {
+      "uid": "bczb7qup4axmc490xmuuv8qdhcnbgeyf",
+      "css": "user",
+      "code": 59405,
+      "src": "typicons"
     }
   ]
 }
